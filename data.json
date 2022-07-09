@@ -1,5 +1,5 @@
 {
   "technologies": [
-    {id: 0, imgSrc: "", name: "html"}
+    {"id": 0, "imgSrc": "", "name": "html"}
   ]
 }

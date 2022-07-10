@@ -9,6 +9,6 @@
         {"id": 6, "imgSrc": "https://img.icons8.com/color/500/500/response.png", "name": "axios"},
         {"id": 7, "imgSrc": "https://img.icons8.com/color/500/500/bootstrap.png", "name": "bootstrap"},
         {"id": 8, "imgSrc": "https://img.icons8.com/fluency/500/500/visual-studio-code-2019.png", "name": "vs code"},
-        {"id": 9, "imgSrc": "https://prepros.io/img/icon.png", "name": "prepros"},
+        {"id": 9, "imgSrc": "https://prepros.io/img/icon.png", "name": "prepros"}
     ]
 }

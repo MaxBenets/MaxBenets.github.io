@@ -1,5 +1,14 @@
 {
   "technologies": [
-    {"id": 0, "imgSrc": "", "name": "html"}
-  ]
+        {"id": 0, "imgSrc": "https://img.icons8.com/color/500/500/html-5.png", "name": "html"},
+        {"id": 1, "imgSrc": "https://img.icons8.com/color/500/500/css3.png", "name": "css"},
+        {"id": 2, "imgSrc": "https://img.icons8.com/color/500/500/sass-avatar.png", "name": "scss"},
+        {"id": 3, "imgSrc": "https://img.icons8.com/fluency/500/500/javascript.png", "name": "javascript"},
+        {"id": 4, "imgSrc": "https://img.icons8.com/office/500/500/react.png", "name": "react"},
+        {"id": 5, "imgSrc": "https://img.icons8.com/color/500/500/redux.png", "name": "redux"},
+        {"id": 6, "imgSrc": "https://img.icons8.com/color/500/500/response.png", "name": "axios"},
+        {"id": 7, "imgSrc": "https://img.icons8.com/color/500/500/bootstrap.png", "name": "bootstrap"},
+        {"id": 8, "imgSrc": "https://img.icons8.com/fluency/500/500/visual-studio-code-2019.png", "name": "vs code"},
+        {"id": 9, "imgSrc": "https://prepros.io/img/icon.png", "name": "prepros"},
+    ]
 }

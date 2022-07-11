@@ -14,6 +14,6 @@
   "projects": [
     {"id": 0, "imgSrc": "https://maxbenets.github.io/static/media/quick.d5cc381be939b590fed7.png", "name": "Quick", "about": "Пошукова система", "url": ""},
     {"id": 1, "imgSrc": "https://maxbenets.github.io/static/media/quick.d5cc381be939b590fed7.png", "name": "Quick", "about": "Пошукова система", "url": ""},
-    {"id": 2, "imgSrc": "https://maxbenets.github.io/static/media/quick.d5cc381be939b590fed7.png", "name": "Quick", "about": "Пошукова система", "url": ""},
+    {"id": 2, "imgSrc": "https://maxbenets.github.io/static/media/quick.d5cc381be939b590fed7.png", "name": "Quick", "about": "Пошукова система", "url": ""}
   ]
 }

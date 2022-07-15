@@ -1,0 +1,31 @@
+.tech{
+    margin-top: 70px;
+}
+
+.skillBox{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+    padding-left: 0;
+}
+
+.skill{
+    margin: 5px;
+    background: #ccc;
+    padding: 10px;
+    color: #000;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    transition: 0.2s;
+}
+.img{
+    width: 25px;
+}
+.name{
+    font-family: "Montserrat";
+    font-size: 25px;
+    text-transform: uppercase;
+    display: block;
+    margin-left: 5px;
+}

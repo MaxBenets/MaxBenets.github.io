@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  position: relative;
+}
+
+::selection{
+  background: rgb(2, 74, 125);
+  color: #fff;
+}
+
+::-webkit-scrollbar{
+  width: 10px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+.Container{
+  max-width: 1500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.h2{
+  font-size: 40px;
+  font-family: "Open sans";
+  font-weight: 400;
+}
+.p{
+  font-weight: 100;
+  font-size: 25px;
+  margin-top: 15px;
+  letter-spacing: 0.2px;
+  font-family: "Roboto";
+}
+.maindata{
+  margin-top: 140px;
+}
+
+.blackArea{
+  background: #272727;
+  margin-top: 120px;
+  padding: 50px;
+  position: relative;
+}
+
+@media (max-width: 1500px) {
+  .blackArea{
+    padding: 20px;
+  }
+}

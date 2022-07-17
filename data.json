@@ -14,7 +14,7 @@
   "projects": [
     {"id": 0, "imgSrc": "https://i.imgur.com/vfr7h93.png", "name": "Quick", "about": "Пошукова система", "url": "https://quicksearchengine.netlify.app/"},
     {"id": 1, "imgSrc": "https://i.imgur.com/jRjjEmh.png", "name": "Candy House", "about": "Інтернет магазин", "url": "https://reactcandyhouse.netlify.app/"},
-    {"id": 2, "imgSrc": "https://i.imgur.com/FrZZNJo.png", "name": "React Shortener", "about": "Скорочувач посилань", "url": "https://reactshortener.netlify.app/"}
+    {"id": 2, "imgSrc": "https://i.imgur.com/WxYW7Sp.png", "name": "React Shortener", "about": "Скорочувач посилань", "url": "https://reactshortener.netlify.app/"}
   ],
   "recomendation": [
     {"id": 0, "name": "Программуємо формочку зворотнього зв'язку без бекенду", "link": "https://www.instagram.com/p/CfjOngsqYuh/?utm_source=ig_web_copy_link"},
